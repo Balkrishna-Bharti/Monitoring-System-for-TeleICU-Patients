@@ -67,6 +67,13 @@ def gen_frames():
                     name = known_face_names[best_match_index]
 
                 face_names.append(name)
+
+            for face in face_names:
+                try:
+                    if face!="unknown":
+                        print(".")
+                except:
+                    raise
             
 
             # Display the results
