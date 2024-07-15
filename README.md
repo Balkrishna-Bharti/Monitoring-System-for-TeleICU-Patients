@@ -19,4 +19,5 @@ For alarm to to enabled for continuous movement the "alarm_counter" value can be
 
 # Running tests
 
-
+Test Video</br>
+https://github.com/user-attachments/assets/784a22ad-16e0-42c8-b2dd-e48e30d63eb6
