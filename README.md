@@ -20,15 +20,14 @@ Sound Detection:</br>
 The sound from the multi-parameter ECG monitor is detected, and if the levels reach a danger zone, the machine responds by emitting an audible sound which can be detected and raise the alarm.
 
 # Running tests
-
 Test Video</br>
 https://github.com/user-attachments/assets/d3c24faa-f238-48d9-9760-9b06f5c5579e
 ## Person Detection
-https://github.com/user-attachments/assets/0582f3df-71fa-4b92-9b99-9f9e1a4c1b02
+https://github.com/user-attachments/assets/240b9cf7-a9fd-4cf0-b4d7-24a4f3f351fd
 ## Motion Detection
 [!NOTE] 
 Since the video was not stable therefore the movements can be seen from starting and beep after some time.
-https://github.com/user-attachments/assets/9c713257-a83e-483f-b292-7f131f22c558
+https://github.com/user-attachments/assets/3e40b55d-96e8-4ff4-b579-39f6e65af7ce
 ## Sound Detection
 [!NOTE] 
 -The machine's sound output may vary. Therefore, if it does not function correctly with the input data provided by you, it may require further training to accommodate the specific input.</br>
