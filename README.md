@@ -15,6 +15,7 @@ This module is first executed , it will detect type of person present in the ICU
 
 Motion Detection:​</br>
 Alarm will be disabled if doctor is present in the room otherwise motion detection will get started and if any movements of the patient is detected then alarm will be enabled.​</br>
+In "obj_det.py" file,</br>
 -For more massive movement detection​ the value of "threshold.sum()" should be increased.​</br>
 *For alarm to to enabled for continuous movement the "alarm_counter" value can be increased.</br>
 
