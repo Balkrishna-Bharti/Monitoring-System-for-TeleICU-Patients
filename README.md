@@ -26,10 +26,9 @@ https://github.com/user-attachments/assets/d3c24faa-f238-48d9-9760-9b06f5c5579e
 https://github.com/user-attachments/assets/240b9cf7-a9fd-4cf0-b4d7-24a4f3f351fd
 ### Motion Detection
 https://github.com/user-attachments/assets/3e40b55d-96e8-4ff4-b579-39f6e65af7ce
-NOTE:</br> 
-Since the video was not stable therefore the movements can be seen from starting and beep after some time.
 ### Sound Detection
 https://github.com/user-attachments/assets/7ad0897f-17c7-4444-a0fd-47817f619a69
-NOTE:</br> 
--The machine's sound output may vary. Therefore, if it does not function correctly with the input data provided by you, it may require further training to accommodate the specific input.</br>
-*We have exclusively utilized heart rate (HR) as our input sound dataset, as other parameters, such as SpO2, were not sufficiently clear.
+### NOTE:
+-Since the video was not stable therefore the movements can be seen from starting and beep after some time.</br> 
+*The machine's sound output may vary. Therefore, if it does not function correctly with the input data provided by you, it may require further training to accommodate the specific input.</br>
++We have exclusively utilized heart rate (HR) as our input sound dataset, as other parameters, such as SpO2, were not sufficiently clear.
